@@ -1,0 +1,6 @@
+torch
+torchvision
+medmnist
+numpy
+tqdm
+acsconv  # pip install acsconv
